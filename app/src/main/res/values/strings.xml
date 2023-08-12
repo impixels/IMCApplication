@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IMC Application</string>
+    <string name="ola_luiz">Ola Luiz</string>
+    <string name="calcular">Calcular</string>
+    <string name="digite_aqui_seu_peso">Digite aqui seu peso</string>
+    <string name="digite_aqui_sua_altura">Digite aqui sua altura</string>
+    <string name="message_classificacao">Classificação %1$s!</string>
+</resources>
